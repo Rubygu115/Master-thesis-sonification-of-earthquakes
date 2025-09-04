@@ -1,2 +1,2 @@
 # Master-thesis-sonification-of-earthquakes
-Python code underlying master dissertation: sonification of earthquakes.
+The attached Jupyter Notebook Master-thesis-sonification of earthquakes.ipynb contains the core analysis and implementation code used in this dissertation. It demonstrates the full workflow of the project, including data loading, preprocessing of seismic waveforms, application of band-pass filters, time compression, and the generation of audio files for sonification. The notebook also includes visualisations such as waveforms and spectrograms, as well as annotations of seismic phases (e.g., P- and S-waves) to support interpretation.
